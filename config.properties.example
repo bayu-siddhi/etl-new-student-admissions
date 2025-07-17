@@ -1,0 +1,21 @@
+# SQLServer
+db.host=localhost
+db.port=1433
+db.input.name.first=OLTP_Selection
+db.input.name.second=OLTP_Reregistration
+db.output.name=OLAP_New_Students
+db.user=
+db.password=
+
+# DuckDB
+db.duckdb.url=jdbc:duckdb:
+db.duckdb.class=org.duckdb.DuckDBDriver
+
+# Minio
+db.minio.s3.region=localhost:8000
+db.minio.s3.endpoint=localhost:8000
+db.minio.s3.use_ssl=false
+db.minio.s3.url_style=path
+db.minio.s3.access_key_id=
+db.minio.s3.secret_access_key=
+db.minio.s3.dir_path=s3://lembaga-masuk-ptn

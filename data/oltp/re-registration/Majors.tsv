@@ -1,0 +1,36 @@
+ID	Name	FacultyID	StartDate	EndDate
+1	Fisika	1	2021-01-01	
+2	Matematika	1	2021-01-01	
+3	Statistika	1	2021-01-01	
+4	Kimia	1	2021-01-01	
+5	Biologi	1	2021-01-01	
+6	Aktuaria	1	2021-01-01	
+7	Teknik Mesin	3	2021-01-01	
+8	Teknik Kimia	3	2021-01-01	
+9	Teknik Fisika	3	2021-01-01	
+10	Teknik Sistem dan Industri	3	2021-01-01	
+11	Teknik Material	3	2021-01-01	
+12	Teknik Sipil	5	2021-01-01	
+13	Arsitektur	5	2021-01-01	
+14	Teknik Lingkungan	5	2021-01-01	
+15	Perencanaan Wilayah dan Kota	5	2021-01-01	
+16	Teknik Geomatika	5	2021-01-01	
+17	Teknik Geofisika	5	2021-01-01	
+18	Teknik Perkapalan	2	2021-01-01	
+19	Teknik Sistem Perkapalan	2	2021-01-01	
+20	Teknik Kelautan	2	2021-01-01	
+21	Teknik Transportasi Laut	2	2021-01-01	
+22	Teknik Elektro 	4	2021-01-01	
+23	Teknik Biomedik	4	2021-01-01	
+24	Teknik Komputer	4	2021-01-01	
+25	Teknik Informatika	4	2021-01-01	
+26	Sistem Informasi	4	2021-01-01	
+27	Teknologi Informasi	4	2021-01-01	
+28	Desain Produk Industri	6	2021-01-01	
+29	Desain Interior	6	2021-01-01	
+30	Desain Komunikasi Visual	6	2021-01-01	
+31	Manajemen Bisnis	6	2021-01-01	
+32	Studi Pembangunan	6	2021-01-01	
+33	Teknologi Kedokteran	7	2022-01-01	
+34	Kedokteran	7	2023-01-01	
+35	Pendidikan Profesi Dokter	7	2023-01-01	
